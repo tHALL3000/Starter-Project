@@ -19,7 +19,7 @@ body {
 }
 
 .header {
-  height: 100vh;
+  height: 25%vh;
   background-color: #eee;
   background-image: url("./images/sandro-katalina-k1bO_VTiZSs-unsplash.jpg");
   background-size: cover;
